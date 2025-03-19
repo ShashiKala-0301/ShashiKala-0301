@@ -1,4 +1,4 @@
-# Hi there, I'm ShashiKala 👋  
+# Hi there, I'm Shashi Kala 👋   
  
 Currently exploring how to build and deploy ML models — also diving into front-end development
 Open to collaborating on ML, AI, or front-end projects — always excited to learn and build
@@ -11,12 +11,10 @@ Learning about ML Ops, deep learning, scalable systems, and React/modern web fra
 ### **🖥️ Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 ### **📚 Libraries & Frameworks**
-- TensorFlow | Keras | Scikit-Learn | OpenCV   
+- ReactJS | TensorFlow | Keras | Scikit-Learn | OpenCV   
 
 ### **💾 Databases**
 - SQL | MongoDB   
@@ -27,8 +25,8 @@ Learning about ML Ops, deep learning, scalable systems, and React/modern web fra
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashiKala1828&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashiKala1828&layout=compact&theme=radical)
+[![Your GitHub Stats]
+![Top Langs]
 
 ---
 
